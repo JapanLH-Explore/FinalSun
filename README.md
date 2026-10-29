@@ -20,4 +20,4 @@ Open both links before adding them to App Store Connect.
 - `styles.css`: shared responsive styling.
 - `.nojekyll`: serves the static files without Jekyll processing.
 
-Support currently uses this repository's public GitHub Issues. Sign-in is required. No App Store download link has been added yet; add the public listing URL once available.
+Player support: finalsun.support@gmail.com. Both language sections link to this address. No App Store download link has been added yet; add the public listing URL once available.
